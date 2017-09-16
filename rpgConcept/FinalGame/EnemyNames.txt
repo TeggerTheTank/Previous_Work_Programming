@@ -1,1 +1,20 @@
-
+Giant Rat
+Goblin
+Kobold
+Skeleton
+Skeleton Rat
+Zombie
+Giant Bat
+Ghost
+Orc
+Elf
+BugBear
+HobGoblin
+Fairy
+Bandit
+Thief
+Brigand
+Whitch
+Wolf
+Bear
+Tiger
